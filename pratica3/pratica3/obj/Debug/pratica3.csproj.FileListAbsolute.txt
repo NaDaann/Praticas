@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\pratica3\pratica3\obj\Debug\pratica3.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\pratica3\pratica3\obj\Debug\pratica3.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\pratica3\pratica3\obj\Debug\pratica3.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\pratica3\pratica3\bin\Debug\pratica3.exe.config
+H:\Visual Studio 2022\Projects\pratica3\pratica3\bin\Debug\pratica3.exe
+H:\Visual Studio 2022\Projects\pratica3\pratica3\bin\Debug\pratica3.pdb
+H:\Visual Studio 2022\Projects\pratica3\pratica3\obj\Debug\pratica3.exe
+H:\Visual Studio 2022\Projects\pratica3\pratica3\obj\Debug\pratica3.pdb

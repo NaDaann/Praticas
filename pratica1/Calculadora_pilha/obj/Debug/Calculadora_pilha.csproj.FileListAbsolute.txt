@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\bin\Debug\Calculadora_pilha.exe.config
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\bin\Debug\Calculadora_pilha.exe
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\bin\Debug\Calculadora_pilha.pdb
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\obj\Debug\Calculadora_pilha.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\obj\Debug\Calculadora_pilha.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\obj\Debug\Calculadora_pilha.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\obj\Debug\Calculadora_pilha.exe
+H:\Visual Studio 2022\Projects\Calculadora_pilha\Calculadora_pilha\obj\Debug\Calculadora_pilha.pdb

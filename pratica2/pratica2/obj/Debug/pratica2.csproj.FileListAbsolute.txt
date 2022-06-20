@@ -1,0 +1,16 @@
+H:\Visual Studio 2022\Projects\pratica2\pratica2\bin\Debug\pratica2.exe.config
+H:\Visual Studio 2022\Projects\pratica2\pratica2\bin\Debug\pratica2.exe
+H:\Visual Studio 2022\Projects\pratica2\pratica2\bin\Debug\pratica2.pdb
+H:\Visual Studio 2022\Projects\pratica2\pratica2\obj\Debug\pratica2.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\pratica2\pratica2\obj\Debug\pratica2.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\pratica2\pratica2\obj\Debug\pratica2.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\pratica2\pratica2\obj\Debug\pratica2.exe
+H:\Visual Studio 2022\Projects\pratica2\pratica2\obj\Debug\pratica2.pdb
+C:\Users\Dan\source\repos\pratica2\pratica2\bin\Debug\pratica2.exe.config
+C:\Users\Dan\source\repos\pratica2\pratica2\bin\Debug\pratica2.exe
+C:\Users\Dan\source\repos\pratica2\pratica2\bin\Debug\pratica2.pdb
+C:\Users\Dan\source\repos\pratica2\pratica2\obj\Debug\pratica2.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\pratica2\pratica2\obj\Debug\pratica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dan\source\repos\pratica2\pratica2\obj\Debug\pratica2.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\pratica2\pratica2\obj\Debug\pratica2.exe
+C:\Users\Dan\source\repos\pratica2\pratica2\obj\Debug\pratica2.pdb

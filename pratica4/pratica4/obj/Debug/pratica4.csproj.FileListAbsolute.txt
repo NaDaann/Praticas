@@ -1,0 +1,8 @@
+C:\Users\Dan\source\repos\pratica4\pratica4\obj\Debug\pratica4.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\pratica4\pratica4\obj\Debug\pratica4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dan\source\repos\pratica4\pratica4\obj\Debug\pratica4.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\pratica4\pratica4\bin\Debug\pratica4.exe.config
+C:\Users\Dan\source\repos\pratica4\pratica4\bin\Debug\pratica4.exe
+C:\Users\Dan\source\repos\pratica4\pratica4\bin\Debug\pratica4.pdb
+C:\Users\Dan\source\repos\pratica4\pratica4\obj\Debug\pratica4.exe
+C:\Users\Dan\source\repos\pratica4\pratica4\obj\Debug\pratica4.pdb
